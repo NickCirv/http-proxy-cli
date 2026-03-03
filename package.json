@@ -1,0 +1,29 @@
+{
+  "name": "http-proxy-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Local HTTP proxy with real-time request/response inspection and logging",
+  "bin": {
+    "http-proxy-cli": "./index.js",
+    "hproxy": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "proxy",
+    "http",
+    "debugging",
+    "api"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
