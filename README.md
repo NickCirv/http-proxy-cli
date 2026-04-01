@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # http-proxy-cli
 
 Local HTTP proxy with real-time request/response inspection, logging, and replay. Zero external dependencies.
